@@ -22,6 +22,7 @@ public class OverrideProgram {
         System.out.println(obj.add(1,2));
         System.out.println(obj.add(1,2,3));
         System.out.println(obj.add(5.4,2));
+        System.out.println(obj.add(5.4,2));
 
     }
 
